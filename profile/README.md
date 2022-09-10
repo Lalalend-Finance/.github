@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🪅
 
 <!--
 
@@ -15,7 +15,7 @@
 # Contracts
 Contracts written in Solidity. 
 
-# Api
+# 🔨  Api
 
 Api made in NodeJs + Web3.js to interact with Evmos blockchain and retrieve complex structures and events needed for the app to work seamlessly.
 
@@ -25,7 +25,7 @@ How to run :
   
   ```` npm run start ````
 
-# WebApp UI 
+# 🌃 WebApp UI 
  
  How to run :
  
@@ -35,7 +35,7 @@ How to run :
   
  visit localhost:3000
 
-# State of the project & Roadmap
+# 🚧 State of the project & Roadmap
   State :
   
   - Contracts deployed on Testnet
