@@ -53,4 +53,8 @@ How to run :
 
 Greetings,
 
+![lalaland](https://user-images.githubusercontent.com/39710677/189492236-3e84803b-2a93-4afd-b30f-87f5f16288f5.png)
+
+
+
 Mia & Seb From Lalalend  🍬
