@@ -37,7 +37,7 @@ How to run :
  
 # 📙 Documentation
   
-  https://ouldbelkacemnael.gitbook.io/product-docs/advanced-guides-for-devs/contracts
+  https://ouldbelkacemnael.gitbook.io/product-docs/
 
 # 🚧 State of the project & Roadmap
   State :
