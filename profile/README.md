@@ -10,3 +10,20 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Contracts
+
+## Api
+Api made in NodeJs + Web3.js to interact with Evmos blockchain and retrieve complex structures and events needed for the app to work seamlessly.
+
+How to run :
+
+  ```` npm install ````
+  ```` npm run start ````
+
+## WebApp UI 
+
+
+Greetings,
+
+Mia & Seb
