@@ -15,7 +15,7 @@
 # Contracts
 Contracts written in Solidity. 
 
-# 🔨  Api
+# Api 🔨
 
 Api made in NodeJs + Web3.js to interact with Evmos blockchain and retrieve complex structures and events needed for the app to work seamlessly.
 
