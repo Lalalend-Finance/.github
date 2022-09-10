@@ -11,19 +11,46 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Contracts
 
-## Api
+# Contracts
+Contracts written in Solidity. 
+
+# Api
+
 Api made in NodeJs + Web3.js to interact with Evmos blockchain and retrieve complex structures and events needed for the app to work seamlessly.
 
 How to run :
 
   ```` npm install ````
+  
   ```` npm run start ````
 
-## WebApp UI 
+# WebApp UI 
+ 
+ How to run :
+ 
+  ```` npm install ````
+  
+  ```` npm run start ````
+  
+ visit localhost:3000
 
+# State of the project & Roadmap
+  State :
+  
+  - Contracts deployed on Testnet
+  - Fix bug interaction when user try to borrow on front end
+  - For testing purposes, except markets entered on Markets Tab & Dashboard of webapp, I used mock data to showcase features (Graph, Governance).
+  - Fix MIA Vault on webapp
+
+  Roadmap :
+  
+  - Implement DEX Aggregator for swaps efficiency
+  - Implement veToken MIA for governance improvement and incentives
+  - Implement Hedhing Module to keep SEB Stablecoin peg through perps or futures market
+  - Optional but cool : Implement analytics page to showcase current usage of the protocol and users' positions
+  
 
 Greetings,
 
-Mia & Seb
+Mia & Seb From Lalalend 🌈
