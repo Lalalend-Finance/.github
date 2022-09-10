@@ -12,7 +12,7 @@
 -->
 
 
-# Contracts
+# 🐼 Contracts
 Contracts written in Solidity. 
 
 # 🔨 Api
@@ -34,6 +34,10 @@ How to run :
   ```` npm run start ````
   
  visit localhost:3000
+ 
+# 📙 Documentation
+  
+  https://ouldbelkacemnael.gitbook.io/product-docs/advanced-guides-for-devs/contracts
 
 # 🚧 State of the project & Roadmap
   State :
