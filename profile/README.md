@@ -44,15 +44,15 @@ How to run :
   
   - Contracts deployed on Testnet
   - Fix bug interaction when user try to borrow on front end
-  - For testing purposes, except markets entered on Markets Tab & Dashboard of webapp, I used mock data to showcase features (Graph, Governance).
-  - Fix MIA Vault on webapp
+  - For testing purposes, except Markets entered on Markets Tab & Dashboard of webapp, I used mock data to showcase features (Graph, Governance).
+  Indeed, for security and tetsing purposes, Governance module + Graph (History) modules are deployed on testnet, i.e contracts are made.
 
-  Roadmap :
+  Roadmap for the next 2 months :
   
   - Implement DEX Aggregator for swaps efficiency
-  - Implement veToken MIA for governance improvement and incentives
-  - Implement Hedhing Module to keep SEB Stablecoin peg through perps or futures market
-  - Optional but cool : Implement analytics page to showcase current usage of the protocol and users' positions
+  - Implement veToken MIA for governance improvement and incentives that will help to thwart the dumping of governance tokens. The chosen vote escrowed     model showed positive outcomes on mainnet.
+  - Implement Hedhing Module to keep SEB Stablecoin peg through perps or futures market driving the whole ecosystem with more volume and fees.
+  - Optional but innovative and intersting for data looooovers : Implement analytics page to showcase current usage of the protocol and users' positions
   
 
 Greetings,
